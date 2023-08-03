@@ -1,8 +1,11 @@
 import React from 'react'
+import InputContainer from './MainContainer'
 
 function App() {
   return (
-    <div>App</div>
+    <>
+      <InputContainer/>
+    </>
   )
 }
 
